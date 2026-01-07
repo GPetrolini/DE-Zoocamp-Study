@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+psycopg2-binary
+jupyter
+notebook
+requests
+duckdb
